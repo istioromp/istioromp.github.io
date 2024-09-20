@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://istioromp.github.io/sitemap.html.gz
+Sitemap: https://istioromp.github.io/app/sitemap.html.gz
+Sitemap: https://istioromp.github.io/assets/sitemap.html.gz
+Sitemap: https://istioromp.github.io/css/sitemap.html.gz
+Sitemap: https://istioromp.github.io/data/sitemap.html.gz
+Sitemap: https://istioromp.github.io/includes/sitemap.html.gz
+Sitemap: https://istioromp.github.io/item/sitemap.html.gz
+Sitemap: https://istioromp.github.io/src/sitemap.html.gz
